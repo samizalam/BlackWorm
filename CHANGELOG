@@ -2,22 +2,33 @@ Full Data Transfer Encryption using Base64
 Modifed Icon Manager
 Modifed Plugin Manager
 Modifed Admin Checker
+Modfied Plugin Invoking
+Modifed Custom Plugin Invoking
 New Flags [ famfamfam ]
-DynuDNS Updater
+DynuDNS Updater [ New ]
 New About Page
-WatchDog
-Add to SchTask
+NexTGen WatchDog [ New ]
+Add to SchTask [ New ]
 Hard Install [ Stealth Mode ]
 FileZilla Stealer
-Clean Password Stealer
-CPU,FireWall Information
-File Binder
+Clean Password Stealer [ Fixes ]
+CPU,FireWall Information [ New ]
+File Binder [ New ]
 Added New Icons
 Modifed Desktop Infection
-New Port Settings
+New Port Settings [ New ]
 New MUTEX Format [bWorm_xxxxxx]
 Listview Style
-Remove Empty Subs and Functions
-2 BlackWorm Process Checker
-Built in Cryptor
-Update Checker
+Remove Empty Subs and Functions [ Fixes ]
+Built in Cryptor with ConfuserEX [ New ]
+Update Checker [ New ]
+Process Manager With Cusotm Colors [ New ]
+Command Shell [ New ]
+Remote Desktop [ New ]
+Keylogger Manager [ New ]
+File Manager with Arabic Name Support [ New ]
+Critical Process [ New ]
+Victim Notification with XtremeRAT Sound [ New ]
+IP Tracker
+Infect ZIP & RAR Files [ PoC Beta ]
+Bug Fixes
