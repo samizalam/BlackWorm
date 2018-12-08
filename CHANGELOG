@@ -1,36 +1,39 @@
-Good Night njRAT >> Welcome to BlackW0rM [ Black Ninja ] | Price :- [ Free ]
-----------------------------------------------------
-1. Full Data Transfer Encryption using Base64
-2. Modifed Icon Manager
-3. Modifed Plugin Manager
-4. Modifed Admin Checker
-5. Modfied Plugin Invoking
-6. Modifed Custom Plugin Invoking
-7. DynuDNS Updater [ New ]
-8. New About Page
-9. NexTGen WatchDog [ New ]
-10. Add to SchTask [ New ]
-11. Hard Install [ Stealth Mode ]
-12. FileZilla Stealer
-13. Clean Password Stealer [ Fixes ]
-14. CPU,FireWall Information [ New ]
-15. File Binder [ New ]
-16. Added New Icons
-17. Modifed Desktop Infection
-18. New Port Settings [ New ]
-19. New MUTEX Format [bWorm_xxxxxx]
-20. Listview Style
-21. Remove Empty Subs and Functions [ Fixes ]
-22. Update Checker [ New ][ Removed From Dev-Point Version ]
-23. Process Manager With Cusotm Colors [ New ]
-24. Command Shell [ New ]
-25. Remote Desktop [ New ]
-26. Keylogger Manager [ New ]
-27. File Manager :
-      Support Downloading Large Files from the target device [ New ]
-      Support Arabic File and Folder Names [ New ]
-28. Critical Process [ New ]
-29. Victim Notification with XtremeRAT Sound [ New ]
-30. IP Tracker [ Removed From Dev-Point Version ]
-31. Infect ZIP & RAR Files [ PoC Beta ] [ Dev By Black.Hacker using WinRAR ]
-32. Bug Fixes
+Full Data Transfer Encryption using Base64
+Modifed Icon Manager
+Modifed Plugin Manager
+Modifed Admin Checker
+Modfied Plugin Invoking
+Modifed Custom Plugin Invoking
+DynuDNS Updater
+New About Page
+NexTGen WatchDog
+Add to SchTask
+Hard Install [ Stealth Mode ]
+FileZilla Stealer
+Clean Password Stealer
+CPU,FireWall Information
+Client Privileges,MUTEX Information
+File Binder
+Added New Icons
+Modifed Desktop Infection
+New Port Settings
+New MUTEX Format
+Listview Style
+Remove Empty Subs and Functions
+Update Checker
+Process Manager With Cusotm Colors
+Command Shell
+Remote Desktop
+Keylogger Manager
+File Manager
+Critical Process
+Service Manger with Full Service Controller
+Srartup Manager
+Victim Notification with XtremeRAT Sound
+IP Tracker
+Infect ZIP & RAR Files
+Clients Groups
+Upgrade Software DotNET Framework From 2.0 to 4.0
+GUI Changes
+Small Changes to the Socket
+Bug Fixes
