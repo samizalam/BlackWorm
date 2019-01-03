@@ -33,7 +33,7 @@
 26. Remote Desktop
 27. Keylogger Manager
 28. Military Grade RSA Encryption With 4096bit Encryption Key for the Host and Port
-29. Stable File Manager With a Downloading Large Files and Arabic Names Support
+29. Stable File Manager With a Downloading Large Files and Arabic Names Support [ You Need To Foreword The Port 6060 ]
 30. Critical Process
 31. Updating Password Plugin
 32. Added Produect Serial Stealer
