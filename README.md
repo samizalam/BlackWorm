@@ -49,11 +49,10 @@
 42. Multi Transfer
 43. Bug Fixes
 
-# License
+## License
 #### GPL-3.0
 #### GNU GENERAL PUBLIC LICENSE
 
-# Copyright
-#### This Prject is Owned By : DarkSoftwareCo.
-
+## Copyright
+#### This Project is Owned By : DarkSoftwareCo.
 #### Copyright © Black.Hacker and DarkSofrwareCo - 2019
