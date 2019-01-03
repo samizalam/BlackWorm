@@ -1,6 +1,7 @@
-## BlackWorm v6.0 BLACK NINJA
-#### The Developer Stopped Updating The Software
-#### This is the Last Version Black.Hacker and DarkSoftwareCo Will Drop
+## BlackWorm v6.0 Black Ninja
+#### BlackWorm Developer Stopped Updating The Software
+#### This is the Last Version Black.Hacker and DarkSoftwareCo Will Release
+#### If You Have Any Issues Please Read The Sourcecode and Try to Solve it
 
 ## What's New
 ##### Good Night njRAT >> Welcome to BlackWorM v6.0 [ Black Ninja ] | Price :- [ Free ]
@@ -47,3 +48,12 @@
 41. Small Fixes to the Socket to be more stable
 42. Multi Transfer
 43. Bug Fixes
+
+# License
+#### GPL-3.0
+#### GNU GENERAL PUBLIC LICENSE
+
+# Copyright
+#### This Prject is Owned By : DarkSoftwareCo.
+
+#### Copyright © Black.Hacker and DarkSofrwareCo - 2019
